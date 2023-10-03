@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T12:09:17.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="I9_6ebZ7HsBbxpsdDR8o" version="22.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T13:14:13.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="_lIM75q_oWOtEir8ELTi" version="22.0.1" type="github">
   <diagram name="Page-1" id="6Q_v11MVusOI8KEGUY-y">
     <mxGraphModel dx="748" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,11 +13,13 @@
         <mxCell id="Mw2ju2tNek2klTTq5CAW-10" value="USR_indicators" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="140" y="80" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Mw2ju2tNek2klTTq5CAW-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mw2ju2tNek2klTTq5CAW-12" target="Mw2ju2tNek2klTTq5CAW-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Mw2ju2tNek2klTTq5CAW-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Mw2ju2tNek2klTTq5CAW-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="90" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Mw2ju2tNek2klTTq5CAW-12" value="building_indicators" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="5" y="80" width="120" height="20" as="geometry" />
+          <mxGeometry x="10" y="80" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Mw2ju2tNek2klTTq5CAW-15" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="50" y="7" width="120" height="60" as="geometry" />
@@ -59,8 +61,16 @@
         <mxCell id="Mw2ju2tNek2klTTq5CAW-3" value="IGN" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="350" y="40" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Mw2ju2tNek2klTTq5CAW-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mw2ju2tNek2klTTq5CAW-21" target="Mw2ju2tNek2klTTq5CAW-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mw2ju2tNek2klTTq5CAW-21" value="IRIS_IGN" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw2ju2tNek2klTTq5CAW-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mw2ju2tNek2klTTq5CAW-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Mw2ju2tNek2klTTq5CAW-22" value="Recensement Population 2018" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="570" y="80" width="120" height="20" as="geometry" />
@@ -107,6 +117,9 @@
             <mxGeometry x="65" y="300" width="50" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Mw2ju2tNek2klTTq5CAW-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mw2ju2tNek2klTTq5CAW-69" target="Mw2ju2tNek2klTTq5CAW-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Mw2ju2tNek2klTTq5CAW-69" value="b_indic_res_POP18" style="whiteSpace=wrap;html=1;fontSize=12;rounded=1;arcSize=27;" vertex="1" parent="1">
           <mxGeometry x="294" y="388.75" width="120" height="32.5" as="geometry" />
         </mxCell>
@@ -115,6 +128,17 @@
             <mxGeometry x="220" y="433.75" width="50" height="26.25" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Mw2ju2tNek2klTTq5CAW-80" value="&lt;div&gt;CALCULATING&amp;nbsp;&lt;/div&gt;&lt;div&gt;NEW COLOMN&lt;/div&gt;&lt;div&gt;(GROUP BY)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="294" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&amp;nbsp;IRIS&lt;/div&gt;" placeholders="1" name="Variable" id="Mw2ju2tNek2klTTq5CAW-81">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=2;fontSize=9;" vertex="1" parent="1">
+            <mxGeometry x="380" y="490" width="34" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Mw2ju2tNek2klTTq5CAW-87" value="sum_surf_dev_per_iris" style="whiteSpace=wrap;html=1;fontSize=12;rounded=1;arcSize=27;" vertex="1" parent="1">
+          <mxGeometry x="294" y="510" width="120" height="32.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
