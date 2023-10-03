@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T13:48:19.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="NYOE8kGsdBPVyJeDgEuz" version="22.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T14:06:20.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="o9D4XAVgz-KZql0bx1S7" version="22.0.1" type="github">
   <diagram name="Page-1" id="6Q_v11MVusOI8KEGUY-y">
     <mxGraphModel dx="734" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,8 +163,8 @@
         <mxCell id="Mw2ju2tNek2klTTq5CAW-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mw2ju2tNek2klTTq5CAW-29" target="Mw2ju2tNek2klTTq5CAW-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mw2ju2tNek2klTTq5CAW-113" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;JOINTURE&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;SPATIALE&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;préd. geom : intersect&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;field : IRIS&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=30;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="630" y="541.25" width="120" height="57.5" as="geometry" />
+        <mxCell id="Mw2ju2tNek2klTTq5CAW-113" value="b_surf_res_iris_POP18" style="whiteSpace=wrap;html=1;rounded=1;arcSize=30;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="590" y="560.63" width="120" height="18.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
