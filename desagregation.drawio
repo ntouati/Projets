@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T14:46:10.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="6ZAa48wop-AH2FWegijZ" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-04T15:29:53.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="m2Z_qGQycTLJw153ht1R" version="22.0.2" type="github">
   <diagram name="Page-1" id="6Q_v11MVusOI8KEGUY-y">
-    <mxGraphModel dx="495" dy="262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,9 +160,12 @@
             <mxGeometry x="507.5" y="421.25" width="47.5" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="5yWjLuwTh8A11MtRIoPg-8" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Calculating population&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;by building&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=38;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="520" y="550" width="300" height="210" as="geometry">
-            <mxRectangle x="557.5" y="550" width="160" height="40" as="alternateBounds" />
+        <mxCell id="DZ2fzZxAfeHNdL0gJQnb-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5yWjLuwTh8A11MtRIoPg-8" target="DZ2fzZxAfeHNdL0gJQnb-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5yWjLuwTh8A11MtRIoPg-8" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Calculating population&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;by building&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=38;fontSize=11;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="520" y="550" width="160" height="40" as="geometry">
+            <mxRectangle x="520" y="550" width="300" height="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Mw2ju2tNek2klTTq5CAW-113" value="b_surf_res_iris_POP18" style="whiteSpace=wrap;html=1;rounded=1;arcSize=30;fontSize=9;" parent="5yWjLuwTh8A11MtRIoPg-8" vertex="1">
@@ -208,6 +211,37 @@
             <mxPoint x="330" y="400" as="sourcePoint" />
             <mxPoint x="430" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DZ2fzZxAfeHNdL0gJQnb-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DZ2fzZxAfeHNdL0gJQnb-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DZ2fzZxAfeHNdL0gJQnb-17" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Calculating population&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;by USR&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=38;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="520" y="670" width="300" height="170" as="geometry">
+            <mxRectangle x="520" y="670" width="160" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DZ2fzZxAfeHNdL0gJQnb-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DZ2fzZxAfeHNdL0gJQnb-17" source="DZ2fzZxAfeHNdL0gJQnb-34" target="DZ2fzZxAfeHNdL0gJQnb-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DZ2fzZxAfeHNdL0gJQnb-34" value="b_surf_res_iris_POP18" style="whiteSpace=wrap;html=1;rounded=1;arcSize=30;fontSize=9;" vertex="1" parent="DZ2fzZxAfeHNdL0gJQnb-17">
+          <mxGeometry x="10" y="50" width="90" height="19.38" as="geometry" />
+        </mxCell>
+        <mxCell id="DZ2fzZxAfeHNdL0gJQnb-38" value="&lt;div style=&quot;font-size: 7px;&quot;&gt;P18_bat&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;IRIS&lt;br style=&quot;font-size: 7px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;fontStyle=2" vertex="1" parent="DZ2fzZxAfeHNdL0gJQnb-17">
+          <mxGeometry x="80" y="69.38" width="30" height="20.62" as="geometry" />
+        </mxCell>
+        <mxCell id="DZ2fzZxAfeHNdL0gJQnb-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DZ2fzZxAfeHNdL0gJQnb-17" source="DZ2fzZxAfeHNdL0gJQnb-39" target="DZ2fzZxAfeHNdL0gJQnb-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DZ2fzZxAfeHNdL0gJQnb-39" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;Aggregation&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;(sum)&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=8;" vertex="1" parent="DZ2fzZxAfeHNdL0gJQnb-17">
+          <mxGeometry x="17.5" y="110" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DZ2fzZxAfeHNdL0gJQnb-33" value="USR_POP18" style="whiteSpace=wrap;html=1;rounded=1;arcSize=30;fontSize=9;" vertex="1" parent="DZ2fzZxAfeHNdL0gJQnb-17">
+          <mxGeometry x="140" y="115.30999999999995" width="90" height="19.38" as="geometry" />
+        </mxCell>
+        <mxCell id="DZ2fzZxAfeHNdL0gJQnb-44" value="USR_POP18" style="whiteSpace=wrap;html=1;rounded=1;arcSize=30;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="625" y="910" width="90" height="19.38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
